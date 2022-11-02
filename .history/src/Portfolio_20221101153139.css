@@ -1,0 +1,42 @@
+*{
+    font-size: 7px;
+}
+
+
+.intro{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3%;
+  }
+  
+  .intro img{
+    margin-right: 20%;
+    margin-left: 20%;
+  }
+
+  .intro p{
+    margin-top: 10%;
+    font-size: 70%;
+     
+  }
+
+  .projectLinks{
+    display: flex;
+    justify-content: center;
+  }
+
+  .projectLinks a{
+    margin-left: 10%;
+    margin-right:10% ;
+  }
+
+  .projectDes{
+    display: flex;
+    justify-content: center;
+  }
+
+  .projectDes p{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
